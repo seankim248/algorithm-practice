@@ -1,1 +1,3 @@
-# Repository to commit and push daily alogrithm challenges
+# Algorithm Practice
+
+Repository to commit and push daily alogrithm challenges
