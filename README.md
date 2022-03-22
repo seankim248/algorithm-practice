@@ -1,3 +1,3 @@
 # Algorithm Practice
 
-Repository to commit and push daily alogrithm challenge
+Repository to commit and push daily alogrithm challe
